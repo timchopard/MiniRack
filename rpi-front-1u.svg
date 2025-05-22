@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="264mm" height="54mm">
+    <path d="M5 8Q5 5 8 5L256 5Q259 5 259 8L259 46Q259 49 256 49L8 49Q5 49 5 46Z" stroke="black" fill="none" />
+    
+    <circle cx="13.7375" cy="11.1" r="3.5" stroke="black" fill="none" />
+    <circle cx="13.7375" cy="26.975" r="3.5" stroke="black" fill="none" />
+    <circle cx="13.7375" cy="42.85" r="3.5" stroke="black" fill="none" />
+    <circle cx="250.2425" cy="11.1" r="3.5" stroke="black" fill="none" />
+    <circle cx="250.2425" cy="26.975" r="3.5" stroke="black" fill="none" />
+    <circle cx="250.2425" cy="42.85" r="3.5" stroke="black" fill="none" />
+
+    <rect x="36" width="55" y="22" height="17" rx="3" ry="3" fill="none" stroke="black" />
+    <rect x="104.5" width="55" y="22" height="17" rx="3" ry="3" fill="none" stroke="black" />
+    <rect x="173" width="55" y="22" height="17" rx="3" ry="3" fill="none" stroke="black" />
+
+    <circle cx="29.25" cy="30.5" r="3" stroke="black" fill="none" />
+    <circle cx="97.75" cy="30.5" r="3" stroke="black" fill="none" />
+    <circle cx="166.25" cy="30.5" r="3" stroke="black" fill="none" />
+    <circle cx="234.75" cy="30.5" r="3" stroke="black" fill="none" />
+</svg>
